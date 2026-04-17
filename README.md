@@ -192,7 +192,7 @@ Contributions are welcome! To contribute:
 
 ## 📄 License
 
-This project is licensed under the MIT License. See LICENSE file for details.
+This project is licensed under the **Syncfusion Community License**. See [Syncfusion License](https://www.syncfusion.com/content/downloads/syncfusion_license.pdf) for details.
 
 ## 🆘 Support
 
