@@ -178,8 +178,7 @@ The application supports multiple themes. Modify the theme reference in `_Layout
 ## 📚 Resources & Documentation
 
 - [ASP.NET MVC Documentation](https://docs.microsoft.com/en-us/aspnet/mvc/)
-- [Syncfusion PivotGrid Documentation](https://www.syncfusion.com/products/aspnet-mvc/pivot-table)
-- [EssentialJS2 MVC Getting Started](https://ej2.syncfusion.com/aspnetmvc/)
+- [Syncfusion PivotGrid Documentation](https://ej2.syncfusion.com/aspnetmvc/documentation/pivot-table/getting-started)
 - [Entity Framework Documentation](https://docs.microsoft.com/en-us/ef/)
 
 ## 🤝 Contributing
