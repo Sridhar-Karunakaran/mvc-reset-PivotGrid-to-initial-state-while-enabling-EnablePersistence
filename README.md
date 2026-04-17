@@ -1,5 +1,6 @@
 # Reset ASP.NET MVC PivotGrid to Initial State with EnablePersistence
 
+[![License](https://img.shields.io/badge/license-SEE%20LICENSE-blue.svg)](https://www.syncfusion.com/content/downloads/syncfusion_license.pdf)
 [![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.7.2+-512BD4.svg)](https://dotnet.microsoft.com/)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2022-5C2D91.svg)](https://visualstudio.microsoft.com/)
 [![Syncfusion EJ2](https://img.shields.io/badge/Syncfusion-EJ2%20MVC-FF6B35.svg)](https://www.syncfusion.com/)
